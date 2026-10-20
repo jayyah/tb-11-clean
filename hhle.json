@@ -1,0 +1,159 @@
+{
+  "activity": {
+    "tip": "全部运行完再看任务完成度\n---------------\n一个手机不能运行超过三个账号\n",
+    "vvv": 1,
+    "shortcut": null,
+    "list": [
+      "❤️开始任务❤️",
+      "双十一超级红包入口",
+      "活动入口在淘宝的直播"
+    ],
+    "mapping": {
+      "活动入口在淘宝的直播": {
+        "url": "taobao://"
+      },
+      "也可以搜索【红包花花乐】进入": {
+        "url": "taobao://"
+      },
+      "双十一超级红包入口": {
+        "url": "taobao://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fm.taobao.com"
+      },
+      "❤️开始任务❤️": {
+        "type": "task",
+        "key": [
+          "赚话费"
+        ]
+      }
+    },
+    "taskList": [
+      "赚话费"
+    ]
+  },
+  "taskData": {
+    "tag": "zhuanhuafei",
+    "common": {
+      "url": "https://raw.githubusercontent.com/jayyah/tb-11-clean/main/hhle.js"
+    },
+    "赚话费": {
+      "type": "task1",
+      "endpage": "taobao://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fm.taobao.com",
+      "main": "taobao://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fm.taobao.com",
+      "endMessage": "任务结束",
+      "task": {
+        "tag": "zhuanhuafei",
+        "scheme": "taobao://m.taobao.com/tbopen/index.html?h5Url=",
+        "baseurl": "://h5.m.taobao.com/taolive/video.html?livesource=platformtask.liulan_huntou&needRecommend=true&sLaunch=0&sKeep=1&sModuleName=taolive&spm=&content=6f2f0b67c1d6c1dd27a0ff5c3cd557ed&forceRefresh=true&tl_sceneId=9647&tl_deliveryId=占位参数1&tl_action=commonLiveBrowse&targetAliveId=2299&needCompleteConsecutively=0",
+        "wait": 18,
+        "wait2": "",
+        "param": {
+          "商品定位": [
+            "nike",
+            "anta",
+            "adidas",
+            "chanel",
+            "dior",
+            "biotherm",
+            "oppo"
+          ]
+        },
+        "before": [],
+        "easy": [
+          {
+            "wait": 18,
+            "url": "://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?sceneId=9647&q=iphone",
+            "ids": [
+              "102235",
+              "101539",
+              "97864",
+              "98463",
+              "106077",
+              "97908",
+              "98122",
+              "106577",
+              "98157",
+              "106079",
+              "106080",
+              "106078"
+            ]
+          }
+        ],
+        "item": [
+          {
+            "url": "://h5.m.taobao.com/taolive/video.html?userId=2215050853207&entryAccountId=2215050853207&livesource=platformtask.beiyong2&targetAliveId=2299&forceRefresh=true&tl_sceneId=9647&tl_deliveryId=107834&tl_action=commonLiveBrowse",
+            "wait": 18
+          },
+          {
+            "url": "://h5.m.taobao.com/taolive/video.html?userId=2215050853207&entryAccountId=2215050853207&livesource=platformtask.beiyong2&targetAliveId=2299&forceRefresh=true&tl_sceneId=9647&tl_deliveryId=107834&tl_action=commonLiveBrowse",
+            "wait": 18
+          },
+          {
+            "url": "://h5.m.taobao.com/taolive/video.html?userId=2215050853207&entryAccountId=2215050853207&livesource=platformtask.beiyong2&targetAliveId=2299&forceRefresh=true&tl_sceneId=9647&tl_deliveryId=107834&tl_action=commonLiveBrowse",
+            "wait": 18
+          },
+          {
+            "url": "://h5.m.taobao.com/taolive/video.html?livesource=platformtask.xiadan_huntou&needRecommend=true&sLaunch=0&sKeep=1&sModuleName=taolive&spm=&content=0acf2148b7efd5cf7bab6aa3ccaa4c3c&tl_sceneId=9647&tl_deliveryId=107889&tl_action=commonLiveBrowse",
+            "wait": 18
+          },
+          {
+            "url": "://h5.m.taobao.com/taolive/video.html?livesource=platformtask.xiadan_huntou&needRecommend=true&sLaunch=0&sKeep=1&sModuleName=taolive&spm=&content=0acf2148b7efd5cf7bab6aa3ccaa4c3c&tl_sceneId=9647&tl_deliveryId=107889&tl_action=commonLiveBrowse",
+            "wait": 18
+          },
+          {
+            "url": "://h5.m.taobao.com/taolive/video.html?livesource=platformtask.xiadan_huntou&needRecommend=true&sLaunch=0&sKeep=1&sModuleName=taolive&spm=&content=0acf2148b7efd5cf7bab6aa3ccaa4c3c&tl_sceneId=9647&tl_deliveryId=107889&tl_action=commonLiveBrowse",
+            "wait": 18
+          },
+          {
+            "url": "://h5.m.taobao.com/taolive/video.html?livesource=platformtask.xiadan_huntou&needRecommend=true&sLaunch=0&sKeep=1&sModuleName=taolive&spm=&content=0acf2148b7efd5cf7bab6aa3ccaa4c3c&tl_sceneId=9647&tl_deliveryId=107889&tl_action=commonLiveBrowse",
+            "wait": 18
+          },
+          {
+            "url": "://h5.m.taobao.com/taolive/video.html?livesource=platformtask.xiadan_huntou&needRecommend=true&sLaunch=0&sKeep=1&sModuleName=taolive&spm=&content=0acf2148b7efd5cf7bab6aa3ccaa4c3c&tl_sceneId=9647&tl_deliveryId=107889&tl_action=commonLiveBrowse",
+            "wait": 18
+          },
+          "107886",
+          "107886",
+          "107886",
+          "107886",
+          "107886",
+          "107886",
+          "107886",
+          "107886",
+          "107886",
+          "107886",
+          "107888",
+          "107888",
+          "107888",
+          "107888",
+          "107888",
+          "107888",
+          "107888",
+          "107888",
+          "107888",
+          "107888",
+          "107891",
+          "107891",
+          "107891",
+          "107891",
+          "107891",
+          "107887",
+          "107887",
+          "107887",
+          "107887",
+          "107887",
+          {
+            "url": "://h5.m.taobao.com/taolive/video.html?userId=2201423303036&entryAccountId=2201423303036&livesource=platformtask.beiyong5&targetAliveId=2299&forceRefresh=true&tl_sceneId=9647&tl_deliveryId=107893&tl_action=commonLiveBrowse",
+            "wait": 18
+          },
+          {
+            "url": "://h5.m.taobao.com/taolive/video.html?userId=2201423303036&entryAccountId=2201423303036&livesource=platformtask.beiyong5&targetAliveId=2299&forceRefresh=true&tl_sceneId=9647&tl_deliveryId=107893&tl_action=commonLiveBrowse",
+            "wait": 18
+          },
+          {
+            "url": "://h5.m.taobao.com/taolive/video.html?userId=2201423303036&entryAccountId=2201423303036&livesource=platformtask.beiyong5&targetAliveId=2299&forceRefresh=true&tl_sceneId=9647&tl_deliveryId=107893&tl_action=commonLiveBrowse",
+            "wait": 18
+          }
+        ]
+      }
+    }
+  }
+}
